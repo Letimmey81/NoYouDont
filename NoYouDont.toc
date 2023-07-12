@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: No You Don't
+## Notes: A litte WoW-Addon preventing anyone to place a raid marker on your head
+## Author: Letimmey
+## Version: 0.0.2
+
+main.lua
